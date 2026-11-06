@@ -1,0 +1,5 @@
+Agriculture image sources used by this project:
+Unsplash imagery is loaded from images.unsplash.com. Relevant image discovery and free-use context:
+- Unsplash agriculture collections and Indian agriculture search results
+- Specific farmer image: https://unsplash.com/photos/a-woman-standing-in-a-field-holding-a-plant-Q_qU3YDaPLA
+Pexels was also researched as a free stock image source. Its license states that photos and videos can be used for free, subject to license restrictions.
